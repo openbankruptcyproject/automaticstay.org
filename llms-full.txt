@@ -1,6 +1,6 @@
 # automaticstay.org -- Full Content
 
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
 This file contains the full text content of all pages on automaticstay.org.
 Part of the Open Bankruptcy Project (openbankruptcyproject.org).
@@ -8,7 +8,7 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## Automatic Stay Limited to 30 Days for Repeat Filers - Section 362(c)(2) and (c)(3)
+## Section 362(c)(3) Repeat Filer [2026]: 30-Day Automatic Stay Limit and Motion to Extend
 Source: https://automaticstay.org/362c-repeat-filer.html
 
 automaticstay.org
@@ -28,6 +28,8 @@ Automatic Stay Limited to 30 Days for Repeat Filers
 If you had a prior bankruptcy case dismissed within the past year, the automatic stay in your new case may only last 30 days - or may not go into effect at all. Sections 362(c)(3) and 362(c)(4) explain when and why.
 
 Home / 30-Day Limit for Repeat Filers
+
+If you had one prior bankruptcy case that was pending and then dismissed within the year before your new filing, the automatic stay in your new case will terminate after 30 days under Section 362(c)(3) - unless the court extends it on a motion filed before the 30 days expire. You must show that the new case was filed in good faith.
 
 The default rule vs. the repeat-filer rule
 
@@ -219,15 +221,9 @@ No spam. No marketing. Just data.
 
 Subscribe
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631), funding PACER access fees and bankruptcy court transparency research.
 
-♥ Sponsor
-
-PACER cases made free through RECAP: 0 of 37.9 million
-
-Every document we access becomes permanently free for the next researcher, attorney, or debtor.
-
-♥ Sponsor
+♥ Donate
 
 Further Reading & Resources
 
@@ -280,23 +276,41 @@ Free bankruptcy information guide
 
 cosignerrights.org →
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Foundational Caselaw
 
-Home
-What It Covers
-Violations
-Exceptions
-Repeat Filers
-Relief from Stay
-Duration
-30-Day Limit
+The cases below define the doctrine on this site:
 
-This site provides general information only and does not constitute legal advice.
-No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
+Citizens Bank of Maryland v. Strumpf, 516 U.S. 16 (1995) - administrative freeze of a debtor's bank account does not violate Section 362(a)(3) so long as the bank does not unilaterally deduct funds; defines what does NOT constitute "exercise control over property of the estate."
 
-Last updated: March 2026
+Mwangi v. Wells Fargo Bank, N.A. (In re Mwangi), 432 B.R. 812 (9th Cir. BAP 2010) - bank that froze debtor's account without releasing exempt funds promptly violated the automatic stay; defines what DOES constitute a stay violation.
 
-Privacy | Terms | Open Bankruptcy Project
+Taggart v. Lorenzen, 587 U.S. 554 (2019) - civil-contempt standard for discharge-injunction and stay violations: contempt is appropriate only when there is no fair ground of doubt as to whether the order barred the creditor's conduct.
+
+Part of the Bankruptcy Transparency Network
+
+Real information, no strings.
+
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
@@ -322,7 +336,7 @@ Cease and Desist Letters for Debt Collectors -- ceaseanddesistdebt.com
 
 ---
 
-## Bankruptcy Protection - How Bankruptcy Protects You [2026] - Automatic Stay
+## Bankruptcy Automatic Stay Protection [2026]: What 11 USC 362(a) Stops the Moment You File
 Source: https://automaticstay.org/bankruptcy-protection.html
 
 Skip to main content
@@ -347,6 +361,8 @@ Home›Automatic Stay›Bankruptcy Protection
 Quick Answer
 
 Bankruptcy protects you in three ways: (1) The automatic stay (Section 362) stops all collection actions the instant you file. (2) Exemptions (Section 522) protect your property from the trustee. (3) The discharge injunction (Section 524) permanently prohibits creditors from collecting discharged debts. Protection begins immediately at filing and the discharge injunction lasts forever.
+
+Bankruptcy provides three layers of protection: (1) The automatic stay under 11 U.S.C. Section 362, which immediately halts most collection actions the moment you file, including lawsuits, garnishments, foreclosures, repossessions, and collection calls. (2) Property exemptions under Section 522, which protect specified assets from the bankruptcy trustee. (3) The discharge injunction under Section 524, which permanently prohibits creditors from collecting on discharged debts after the case concludes.
 
 Layer 1: The Automatic Stay (11 U.S.C. § 362)
 
@@ -454,7 +470,7 @@ The automatic stay ends when the case is closed, dismissed, or when discharge is
 
 Related Topics
 
-Rule 9037 PII Scanner (Open Source)
+Rule 9037 Compliance Guide
 
 Discharge Injunction
 Relief from Stay
@@ -524,30 +540,41 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Relief from Automatic Stay -- relieffromstay.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Foundational Caselaw
+
+The cases below define the doctrine on this site:
+
+Citizens Bank of Maryland v. Strumpf, 516 U.S. 16 (1995) - administrative freeze of a debtor's bank account does not violate Section 362(a)(3) so long as the bank does not unilaterally deduct funds; defines what does NOT constitute "exercise control over property of the estate."
+
+Mwangi v. Wells Fargo Bank, N.A. (In re Mwangi), 432 B.R. 812 (9th Cir. BAP 2010) - bank that froze debtor's account without releasing exempt funds promptly violated the automatic stay; defines what DOES constitute a stay violation.
+
+Taggart v. Lorenzen, 587 U.S. 554 (2019) - civil-contempt standard for discharge-injunction and stay violations: contempt is appropriate only when there is no fair ground of doubt as to whether the order barred the creditor's conduct.
 
 Part of the Bankruptcy Transparency Network
 
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit
-
 Real information, no strings.
 
-1328f.com
-1328f.org
-automaticstay.org
-meanstest.org
-341meeting.org
-523a.org
-109g.org
-727a8.com
-dischargeinjunction.com
-howtofilebankruptcy.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
@@ -555,7 +582,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## My Car Was Repossessed After I Filed Bankruptcy - What Do I Do? - Automatic Stay
+## Car Repossessed After Bankruptcy Filing [2026]: 11 USC 542 Turnover and Automatic Stay Recovery
 Source: https://automaticstay.org/car-repossessed.html
 
 automaticstay.org
@@ -574,6 +601,8 @@ My Car Was Repossessed After I Filed Bankruptcy - What Do I Do?
 A step-by-step guide for debtors | Part of the Open Bankruptcy Project
 
 If this just happened to you, read this first. The automatic stay under 11 U.S.C. Section 362 goes into effect the instant your bankruptcy petition is filed with the court. If your car was repossessed after that moment, the lender may have violated federal law. You may be entitled to the return of your vehicle and money damages.
+
+Generally no. The automatic stay under 11 U.S.C. Section 362 goes into effect the instant your bankruptcy case is filed. From that moment, creditors are prohibited from repossessing your vehicle. If a lender repossesses your car after you filed, the repossession may be a violation of the automatic stay, and the lender may be required to return the vehicle and pay you damages.
 
 Step 1: Confirm the Timeline
 
@@ -656,6 +685,16 @@ Documentation of missed work or lost income
 Photos or video of the repossession if available (doorbell camera, dashcam)
 
 A written timeline of events with dates and times
+
+Foundational Caselaw
+
+The cases below define the doctrine on this site:
+
+Citizens Bank of Maryland v. Strumpf, 516 U.S. 16 (1995) - administrative freeze of a debtor's bank account does not violate Section 362(a)(3) so long as the bank does not unilaterally deduct funds; defines what does NOT constitute "exercise control over property of the estate."
+
+Mwangi v. Wells Fargo Bank, N.A. (In re Mwangi), 432 B.R. 812 (9th Cir. BAP 2010) - bank that froze debtor's account without releasing exempt funds promptly violated the automatic stay; defines what DOES constitute a stay violation.
+
+Taggart v. Lorenzen, 587 U.S. 554 (2019) - civil-contempt standard for discharge-injunction and stay violations: contempt is appropriate only when there is no fair ground of doubt as to whether the order barred the creditor's conduct.
 
 Related Resources
 
@@ -740,24 +779,31 @@ Free bankruptcy information guide
 
 cosignerrights.org →
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-automaticstay.org - Part of the Open Bankruptcy Project
+Real information, no strings.
 
-Free, open-source bankruptcy information. No ads. No lead generation. No strings attached.
-
-Screener
-Research
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
 341 Meeting
+Exemptions by State
 Means Test
-Pro Se Resources
-Relief from Stay
-♥ Sponsor
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-Not legal advice. Not affiliated with any law firm or government agency.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
@@ -789,7 +835,7 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 ---
 
-## Motion to Extend the Automatic Stay (Comfort Order)
+## Motion to Extend the Automatic Stay [2026]: 11 USC 362(c)(3)(B) Comfort Order Procedure
 Source: https://automaticstay.org/comfort-order.html
 
 automaticstay.org
@@ -809,6 +855,8 @@ Motion to Extend the Automatic Stay (Comfort Order)
 When the automatic stay is limited to 30 days under Section 362(c)(3), you need a court order to keep it in place. Here is how the process works and what courts expect to see.
 
 Home / Comfort Order
+
+A comfort order is an informal term for a court order that extends or confirms the automatic stay. It is most commonly used when a repeat filer needs to extend the stay beyond the 30-day limit under Section 362(c)(3), or when a creditor disputes whether the stay applies. The debtor files a motion, the court holds a hearing, and if the debtor demonstrates good faith, the court enters an order extending the stay.
 
 What is a comfort order?
 
@@ -1020,15 +1068,9 @@ No spam. No marketing. Just data.
 
 Subscribe
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631), funding PACER access fees and bankruptcy court transparency research.
 
-♥ Sponsor
-
-PACER cases made free through RECAP: 0 of 37.9 million
-
-Every document we access becomes permanently free for the next researcher, attorney, or debtor.
-
-♥ Sponsor
+♥ Donate
 
 Further Reading & Resources
 
@@ -1081,23 +1123,41 @@ Free bankruptcy information guide
 
 cosignerrights.org →
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Foundational Caselaw
 
-Home
-What It Covers
-Violations
-Exceptions
-Repeat Filers
-Relief from Stay
-Duration
-30-Day Limit
+The cases below define the doctrine on this site:
 
-This site provides general information only and does not constitute legal advice.
-No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
+Citizens Bank of Maryland v. Strumpf, 516 U.S. 16 (1995) - administrative freeze of a debtor's bank account does not violate Section 362(a)(3) so long as the bank does not unilaterally deduct funds; defines what does NOT constitute "exercise control over property of the estate."
 
-Last updated: March 2026
+Mwangi v. Wells Fargo Bank, N.A. (In re Mwangi), 432 B.R. 812 (9th Cir. BAP 2010) - bank that froze debtor's account without releasing exempt funds promptly violated the automatic stay; defines what DOES constitute a stay violation.
 
-Privacy | Terms | Open Bankruptcy Project
+Taggart v. Lorenzen, 587 U.S. 554 (2019) - civil-contempt standard for discharge-injunction and stay violations: contempt is appropriate only when there is no fair ground of doubt as to whether the order barred the creditor's conduct.
+
+Part of the Bankruptcy Transparency Network
+
+Real information, no strings.
+
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
@@ -1123,7 +1183,7 @@ Cease and Desist Letters for Debt Collectors -- ceaseanddesistdebt.com
 
 ---
 
-## Creditor Still Calling After I Filed Bankruptcy - What Do I Do? - Automatic Stay
+## Creditor Calling After Bankruptcy Filing [2026]: 11 USC 362(k) Damages for Stay Violations
 Source: https://automaticstay.org/creditor-still-calling.html
 
 automaticstay.org
@@ -1143,6 +1203,8 @@ A Creditor Is Still Calling Me After I Filed Bankruptcy - What Do I Do?
 A step-by-step guide for debtors | Part of the Open Bankruptcy Project
 
 Short answer: they are probably breaking the law. The automatic stay under 11 U.S.C. Section 362 prohibits all collection activity the instant your bankruptcy is filed. This includes phone calls, letters, emails, text messages, and even social media messages. A creditor who keeps contacting you may owe you damages.
+
+No. The automatic stay under 11 U.S.C. Section 362 prohibits creditors from taking any collection action after you file bankruptcy. This includes phone calls, letters, emails, text messages, and social media messages. A creditor who continues to contact you after your filing may be violating the automatic stay.
 
 What to Say When They Call
 
@@ -1225,6 +1287,16 @@ After Your Discharge
 If your bankruptcy is complete and you received a discharge, creditors are permanently prohibited from collecting on discharged debts. This is called the discharge injunction under Section 524. If a creditor calls you about a discharged debt, the violation is even more clear-cut.
 
 Learn more about the discharge injunction at dischargeinjunction.org.
+
+Foundational Caselaw
+
+The cases below define the doctrine on this site:
+
+Citizens Bank of Maryland v. Strumpf, 516 U.S. 16 (1995) - administrative freeze of a debtor's bank account does not violate Section 362(a)(3) so long as the bank does not unilaterally deduct funds; defines what does NOT constitute "exercise control over property of the estate."
+
+Mwangi v. Wells Fargo Bank, N.A. (In re Mwangi), 432 B.R. 812 (9th Cir. BAP 2010) - bank that froze debtor's account without releasing exempt funds promptly violated the automatic stay; defines what DOES constitute a stay violation.
+
+Taggart v. Lorenzen, 587 U.S. 554 (2019) - civil-contempt standard for discharge-injunction and stay violations: contempt is appropriate only when there is no fair ground of doubt as to whether the order barred the creditor's conduct.
 
 Related Resources
 
@@ -1309,24 +1381,31 @@ Free bankruptcy information guide
 
 cosignerrights.org →
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-automaticstay.org - Part of the Open Bankruptcy Project
+Real information, no strings.
 
-Free, open-source bankruptcy information. No ads. No lead generation. No strings attached.
-
-Screener
-Research
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
 341 Meeting
+Exemptions by State
 Means Test
-Pro Se Resources
-Relief from Stay
-♥ Sponsor
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-Not legal advice. Not affiliated with any law firm or government agency.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
@@ -1487,7 +1566,7 @@ Keep My Car in Bankruptcy
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
-♥ Sponsor
+♥ Donate
 
 Further Reading & Resources
 
@@ -1505,7 +1584,15 @@ Consumer Financial Protection Bureau tools
 Find Free Legal Aid
 LSC legal aid finder
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Foundational Caselaw
+
+The cases below define the doctrine on this site:
+
+Citizens Bank of Maryland v. Strumpf, 516 U.S. 16 (1995) - administrative freeze of a debtor's bank account does not violate Section 362(a)(3) so long as the bank does not unilaterally deduct funds; defines what does NOT constitute "exercise control over property of the estate."
+
+Mwangi v. Wells Fargo Bank, N.A. (In re Mwangi), 432 B.R. 812 (9th Cir. BAP 2010) - bank that froze debtor's account without releasing exempt funds promptly violated the automatic stay; defines what DOES constitute a stay violation.
+
+Taggart v. Lorenzen, 587 U.S. 554 (2019) - civil-contempt standard for discharge-injunction and stay violations: contempt is appropriate only when there is no fair ground of doubt as to whether the order barred the creditor's conduct.
 
 Part of the Bankruptcy Transparency Network
 
@@ -1519,23 +1606,25 @@ Automatic Stay
 341 Meeting
 Exemptions by State
 Means Test
-Disability & Debt
+File Without a Lawyer
 Rebuild Credit
+1099cdebt.com
 
 Free bankruptcy education for the public interest. Not legal advice.
 If you need legal help, contact a licensed attorney in your state.
 A project of the Open Bankruptcy Project,
-a 501(c)(3) nonprofit.
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms
+Privacy |
+Terms
 
-♥ Sponsor
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Exceptions to the Automatic Stay - What Bankruptcy Does NOT Stop
+## Exceptions to the Automatic Stay [2026]: 11 USC 362(b) Criminal Cases, Domestic Support, Tax Audits
 Source: https://automaticstay.org/exceptions.html
 
 automaticstay.org
@@ -1555,6 +1644,8 @@ Exceptions to the Automatic Stay
 The automatic stay is one of the most powerful protections in bankruptcy, but it is not absolute. Section 362(b) lists more than two dozen exceptions.
 
 Home / Exceptions
+
+No. Under Section 362(b)(1), the automatic stay does not apply to the commencement or continuation of a criminal action or proceeding against the debtor. Criminal cases proceed regardless of the bankruptcy filing. This includes criminal contempt proceedings and criminal fraud prosecutions.
 
 The stay does not stop everything
 
@@ -1690,15 +1781,9 @@ No spam. No marketing. Just data.
 
 Subscribe
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631), funding PACER access fees and bankruptcy court transparency research.
 
-♥ Sponsor
-
-PACER cases made free through RECAP: 0 of 37.9 million
-
-Every document we access becomes permanently free for the next researcher, attorney, or debtor.
-
-♥ Sponsor
+♥ Donate
 
 Further Reading & Resources
 
@@ -1751,23 +1836,41 @@ Free bankruptcy information guide
 
 cosignerrights.org →
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Foundational Caselaw
 
-Home
-What It Covers
-Violations
-Exceptions
-Repeat Filers
-Relief from Stay
-Duration
-30-Day Limit
+The cases below define the doctrine on this site:
 
-This site provides general information only and does not constitute legal advice.
-No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
+Citizens Bank of Maryland v. Strumpf, 516 U.S. 16 (1995) - administrative freeze of a debtor's bank account does not violate Section 362(a)(3) so long as the bank does not unilaterally deduct funds; defines what does NOT constitute "exercise control over property of the estate."
 
-Last updated: March 2026
+Mwangi v. Wells Fargo Bank, N.A. (In re Mwangi), 432 B.R. 812 (9th Cir. BAP 2010) - bank that froze debtor's account without releasing exempt funds promptly violated the automatic stay; defines what DOES constitute a stay violation.
 
-Privacy | Terms | Open Bankruptcy Project
+Taggart v. Lorenzen, 587 U.S. 554 (2019) - civil-contempt standard for discharge-injunction and stay violations: contempt is appropriate only when there is no fair ground of doubt as to whether the order barred the creditor's conduct.
+
+Part of the Bankruptcy Transparency Network
+
+Real information, no strings.
+
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
@@ -1802,7 +1905,7 @@ automaticstay.org
 
 Home
 FAQ
-Espanol
+Español
 
 Automatic Stay FAQ - Bankruptcy Protection Questions Answered
 
@@ -1870,6 +1973,8 @@ Can I waive the automatic stay?
 
 Pre-petition waivers of the automatic stay are generally unenforceable. Courts have consistently held that debtors cannot waive their right to the stay before filing. However, the court can modify or terminate the stay after filing based on a creditor's motion.
 
+The automatic stay is an injunction that takes effect the instant you file a bankruptcy petition. Under 11 U.S.C. Section 362, it immediately stops most collection actions, lawsuits, foreclosures, repossessions, wage garnishments, and creditor harassment. No court order is needed - it is automatic.
+
 More Resources on This Site
 
 What It Covers
@@ -1892,24 +1997,37 @@ Keep Your Car
 
 Keep Your House
 
-Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-openbankruptcyproject.org
-1328f.com
-chapter7vs13.org
-bankruptcymeanstest.org
-♥ Sponsor
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## How Long Does the Automatic Stay Last? - Chapter 7 vs. Chapter 13
+## How Long Does the Automatic Stay Last [2026]: Chapter 7 vs Chapter 13 Duration Under 11 USC 362(c)
 Source: https://automaticstay.org/how-long-does-it-last.html
 
 automaticstay.org
@@ -1929,6 +2047,8 @@ How Long Does the Automatic Stay Last?
 The stay lasts for the duration of your bankruptcy case - but the duration depends on the chapter you file, whether your case succeeds, and whether any creditor obtains relief.
 
 Home / Duration
+
+In Chapter 7, the automatic stay generally lasts from the date of filing until the case is closed or the debtor receives a discharge, typically 3-6 months. Once the discharge is entered, the automatic stay is replaced by the discharge injunction under Section 524, which permanently prohibits collection of discharged debts.
 
 Duration by chapter
 
@@ -2074,15 +2194,9 @@ No spam. No marketing. Just data.
 
 Subscribe
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631), funding PACER access fees and bankruptcy court transparency research.
 
-♥ Sponsor
-
-PACER cases made free through RECAP: 0 of 37.9 million
-
-Every document we access becomes permanently free for the next researcher, attorney, or debtor.
-
-♥ Sponsor
+♥ Donate
 
 Further Reading & Resources
 
@@ -2135,23 +2249,41 @@ Free bankruptcy information guide
 
 cosignerrights.org →
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Foundational Caselaw
 
-Home
-What It Covers
-Violations
-Exceptions
-Repeat Filers
-Relief from Stay
-Duration
-30-Day Limit
+The cases below define the doctrine on this site:
 
-This site provides general information only and does not constitute legal advice.
-No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
+Citizens Bank of Maryland v. Strumpf, 516 U.S. 16 (1995) - administrative freeze of a debtor's bank account does not violate Section 362(a)(3) so long as the bank does not unilaterally deduct funds; defines what does NOT constitute "exercise control over property of the estate."
 
-Last updated: March 2026
+Mwangi v. Wells Fargo Bank, N.A. (In re Mwangi), 432 B.R. 812 (9th Cir. BAP 2010) - bank that froze debtor's account without releasing exempt funds promptly violated the automatic stay; defines what DOES constitute a stay violation.
 
-Privacy | Terms | Open Bankruptcy Project
+Taggart v. Lorenzen, 587 U.S. 554 (2019) - civil-contempt standard for discharge-injunction and stay violations: contempt is appropriate only when there is no fair ground of doubt as to whether the order barred the creditor's conduct.
+
+Part of the Bankruptcy Transparency Network
+
+Real information, no strings.
+
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
@@ -2182,7 +2314,7 @@ Source: https://automaticstay.org/
 
 Skip to main content
 
-🌐 Esta pagina esta disponible en Espanol
+🌐 Esta página está disponible en Español
 
 automaticstay.org
 ☰
@@ -2197,7 +2329,7 @@ Duration
 30-Day Limit
 EN / ES
 
-Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 210+ free domains, 49,000+ pages, $0 hosting
 
 11 USC 362 Automatic Stay in Bankruptcy
 
@@ -2207,6 +2339,8 @@ What It Stops
 Know Your Rights
 
 Based on 11 U.S.C. Section 362 - the most immediate protection in the Bankruptcy Code
+
+The automatic stay is a federal court order under 11 U.S.C. Section 362 that takes effect the instant a bankruptcy petition is filed. It immediately stops virtually all creditor collection activity - lawsuits, foreclosures, repossessions, wage garnishments, collection calls, bank levies, and utility shutoffs. No hearing or judge's signature is required. It applies to every creditor, whether they know about the filing or not.
 
 If you are being harassed, garnished, foreclosed on, or repossessed
 
@@ -2253,6 +2387,20 @@ Punitive damages - in appropriate circumstances
 Common violations: a car lender repossesses your vehicle after filing. A debt collector keeps calling - including zombie debt collectors trying to revive old debts. Your employer continues garnishing wages. A bank freezes your account.
 
 Learn what to do if a creditor violates the stay →
+
+Why Wells Fargo and Chase freeze accounts after you file (and when the stay requires release) →
+
+Stay Violations and Consent Integrity in Plan Confirmation
+
+A creditor's automatic-stay violation under Section 362(k) creates an unliquidated damages claim that belongs to the debtor (or to the bankruptcy estate). That claim is property of the estate. If the violation occurred during the case but was not disclosed in plan solicitation materials, the consent record at confirmation rests on incomplete information.
+
+Two intersections with Subchapter V plan confirmation:
+
+Asset disclosure obligation: A debtor with a known or knowable Section 362(k) claim against a creditor has an asset that must be disclosed in the schedules and addressed in the plan. Failure to do so is material nondisclosure relevant to Section 1125(a) adequacy.
+
+Creditor consent calculus: A creditor voting on a plan without knowledge that the debtor has a counterclaim against it cannot make an informed acceptance decision. Where the stay-violation was the creditor's own conduct, the creditor faces additional exposure under Section 1144 if the omission was procured to obtain plan acceptance.
+
+Post-confirmation discovery of a Section 362(k) violation that occurred during the case is evidence of pre-confirmation consent defect. See the consent-integrity framework at section1191.org.
 
 Explore the automatic stay
 
@@ -2383,7 +2531,7 @@ The Codebtor Stay - Section 1301 protection for co-signers in Chapter 13
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
 Proposing automated Section 1328 discharge requirements(f) bankruptcy discharge bar rules screening in federal bankruptcy courts
 
@@ -2397,11 +2545,9 @@ Subscribe
 
 We buy federal court records and donate them to RECAP so no one has to pay. Browse the archive →
 
-$16,500+ spent · $0 donated · $0 hosting · 105 domains · 2,000+ pages · All free, forever.
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631), funding PACER access fees and bankruptcy court transparency research.
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.
-
-♥ Sponsor
+♥ Donate
 
 PACER cases made free through RECAP: 91 of 37.9 million
 
@@ -2411,7 +2557,7 @@ $0 of $5,000 Q1 PACER research goal
 
 1,500+ hours. No grants, no institutional backing. 0 supporters so far.
 
-♥ Sponsor
+♥ Donate
 
 Further Reading & Resources
 
@@ -2508,28 +2654,43 @@ Exemptions vary dramatically by state. Check what you can protect.
 
 Browse Your State's Exemptions →
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Foundational Caselaw
 
-Home
-What It Covers
-Violations
-Exceptions
-Repeat Filers
-Relief from Stay
-Duration
-30-Day Limit
-Espanol
+The cases below define the doctrine on this site:
 
-This site provides general information only and does not constitute legal advice.
-No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
+Citizens Bank of Maryland v. Strumpf, 516 U.S. 16 (1995) - administrative freeze of a debtor's bank account does not violate Section 362(a)(3) so long as the bank does not unilaterally deduct funds; defines what does NOT constitute "exercise control over property of the estate."
 
-Last updated: March 2026
+Mwangi v. Wells Fargo Bank, N.A. (In re Mwangi), 432 B.R. 812 (9th Cir. BAP 2010) - bank that froze debtor's account without releasing exempt funds promptly violated the automatic stay; defines what DOES constitute a stay violation.
 
-Privacy | Terms | Open Bankruptcy Project
+Taggart v. Lorenzen, 587 U.S. 554 (2019) - civil-contempt standard for discharge-injunction and stay violations: contempt is appropriate only when there is no fair ground of doubt as to whether the order barred the creditor's conduct.
 
-Rule 9037 PII Scanner - Free open-source tool to detect unredacted personal information in court filings
+Part of the Bankruptcy Transparency Network
 
-Cited by the Federal Rules Committee (26-BK-3)
+Real information, no strings.
+
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
@@ -2611,9 +2772,41 @@ Relief from Automatic Stay -- relieffromstay.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Most-read OBP guides
+
+Brunner Test (§523(a)(8))
+
+3-prong analysis for discharging student loans
+
+Car Loan After Bankruptcy
+
+Buy a car and get financing post-discharge
+
+Student Loans in Bankruptcy
+
+Can you discharge them? 2026 guide
+
+Federal Exemptions §522(d)
+
+Complete list of federal exemptions
+
+Nondischargeable Debts List
+
+Debts that survive bankruptcy discharge
+
+Site Map
+
+Additional resources on this site
+
+Bankruptcy Protection
+Emergency Protection
+Googlezvjzyjfznkwziasscft56Wwvzodyv174Hor3Hvo 08Y
+Repossession
+Serial Filer Stay Limitation
+
 ---
 
-## Motion for Relief from Stay - When Creditors Ask the Court to Lift the Stay - Automatic Stay
+## Motion for Relief from Stay [2026]: 11 USC 362(d)(1) and (d)(2) Creditor Procedure
 Source: https://automaticstay.org/motion-for-relief.html
 
 automaticstay.org
@@ -2633,6 +2826,8 @@ Motion for Relief from Stay
 Creditors can ask the court to lift the automatic stay. Understanding when, why, and how to fight it is essential to protecting your assets.
 
 Home / Relief from Stay
+
+A motion for relief from stay is a request by a creditor asking the bankruptcy court to lift (terminate) the automatic stay so the creditor can pursue collection or enforcement against the debtor or the debtor's property. It is filed under Section 362(d) of the Bankruptcy Code. Common examples include a mortgage lender seeking to foreclose or a car lender seeking to repossess.
 
 What is a motion for relief from stay?
 
@@ -2760,15 +2955,9 @@ No spam. No marketing. Just data.
 
 Subscribe
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631), funding PACER access fees and bankruptcy court transparency research.
 
-♥ Sponsor
-
-PACER cases made free through RECAP: 0 of 37.9 million
-
-Every document we access becomes permanently free for the next researcher, attorney, or debtor.
-
-♥ Sponsor
+♥ Donate
 
 Further Reading & Resources
 
@@ -2821,23 +3010,41 @@ Free bankruptcy information guide
 
 cosignerrights.org →
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Foundational Caselaw
 
-Home
-What It Covers
-Violations
-Exceptions
-Repeat Filers
-Relief from Stay
-Duration
-30-Day Limit
+The cases below define the doctrine on this site:
 
-This site provides general information only and does not constitute legal advice.
-No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
+Citizens Bank of Maryland v. Strumpf, 516 U.S. 16 (1995) - administrative freeze of a debtor's bank account does not violate Section 362(a)(3) so long as the bank does not unilaterally deduct funds; defines what does NOT constitute "exercise control over property of the estate."
 
-Last updated: March 2026
+Mwangi v. Wells Fargo Bank, N.A. (In re Mwangi), 432 B.R. 812 (9th Cir. BAP 2010) - bank that froze debtor's account without releasing exempt funds promptly violated the automatic stay; defines what DOES constitute a stay violation.
 
-Privacy | Terms | Open Bankruptcy Project
+Taggart v. Lorenzen, 587 U.S. 554 (2019) - civil-contempt standard for discharge-injunction and stay violations: contempt is appropriate only when there is no fair ground of doubt as to whether the order barred the creditor's conduct.
+
+Part of the Bankruptcy Transparency Network
+
+Real information, no strings.
+
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
@@ -2863,7 +3070,7 @@ Cease and Desist Letters for Debt Collectors -- ceaseanddesistdebt.com
 
 ---
 
-## Your Car Was Repossessed During Bankruptcy: What to Do Now [2026 Guide] - Automatic Stay
+## Vehicle Repossessed During Bankruptcy [2026]: 11 USC 542 Turnover and Insurance Documentation
 Source: https://automaticstay.org/repossession.html
 
 Skip to main content
@@ -2876,13 +3083,15 @@ Car Repossessed
 Relief from Stay
 Attorney Issues
 
-Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 210+ free domains, 49,000+ pages, $0 hosting
 
 Your Car Was Repossessed During Bankruptcy: What to Do Now
 
 If a creditor took your vehicle during an active bankruptcy without court permission, you have rights. Here is a step-by-step guide to getting your car back and holding the creditor accountable.
 
 Home›Car Repossessed
+
+Generally no. The automatic stay under Section 362 prohibits creditors from repossessing collateral without court permission. A creditor must first file a motion for relief from stay and obtain a court order. If your car was repossessed without a court order during your bankruptcy, that is a violation of the automatic stay and you have legal remedies.
 
 1 Document Everything Immediately
 
@@ -3031,23 +3240,31 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-Part of the Open Bankruptcy Project - free bankruptcy information for everyone.
+Real information, no strings.
 
-relieffromstay.org
-meanstest.org
-bankruptcymalpractice.org
-341meeting.org
-523a.org
-prosedebtors.org
-howtofilebankruptcy.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
@@ -3055,7 +3272,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Automatic Stay Limits for Repeat Filers - 362(c)(3) and 362(c)(4)
+## Serial Filer Automatic Stay Limits [2026]: 11 USC 362(c)(3) 30-Day Cap and 362(c)(4) No-Stay Rule
 Source: https://automaticstay.org/serial-filer-limits.html
 
 automaticstay.org
@@ -3075,6 +3292,8 @@ Automatic Stay Limits for Repeat Filers
 If your prior bankruptcy was dismissed, your automatic stay may be limited to 30 days - or may not apply at all. Here is how to get protection restored.
 
 Home / Repeat Filer Limits
+
+Under Section 362(c)(3), if you had a bankruptcy case that was pending and dismissed within the one-year period before your new filing, the automatic stay expires 30 days after the new case is filed unless you file a motion to extend it. You must show the new case was filed in good faith. This provision was added by BAPCPA in 2005.
 
 Why repeat filers get less protection
 
@@ -3202,15 +3421,9 @@ No spam. No marketing. Just data.
 
 Subscribe
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631), funding PACER access fees and bankruptcy court transparency research.
 
-♥ Sponsor
-
-PACER cases made free through RECAP: 0 of 37.9 million
-
-Every document we access becomes permanently free for the next researcher, attorney, or debtor.
-
-♥ Sponsor
+♥ Donate
 
 Further Reading & Resources
 
@@ -3263,23 +3476,41 @@ Free bankruptcy information guide
 
 cosignerrights.org →
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Foundational Caselaw
 
-Home
-What It Covers
-Violations
-Exceptions
-Repeat Filers
-Relief from Stay
-Duration
-30-Day Limit
+The cases below define the doctrine on this site:
 
-This site provides general information only and does not constitute legal advice.
-No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
+Citizens Bank of Maryland v. Strumpf, 516 U.S. 16 (1995) - administrative freeze of a debtor's bank account does not violate Section 362(a)(3) so long as the bank does not unilaterally deduct funds; defines what does NOT constitute "exercise control over property of the estate."
 
-Last updated: March 2026
+Mwangi v. Wells Fargo Bank, N.A. (In re Mwangi), 432 B.R. 812 (9th Cir. BAP 2010) - bank that froze debtor's account without releasing exempt funds promptly violated the automatic stay; defines what DOES constitute a stay violation.
 
-Privacy | Terms | Open Bankruptcy Project
+Taggart v. Lorenzen, 587 U.S. 554 (2019) - civil-contempt standard for discharge-injunction and stay violations: contempt is appropriate only when there is no fair ground of doubt as to whether the order barred the creditor's conduct.
+
+Part of the Bankruptcy Transparency Network
+
+Real information, no strings.
+
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
@@ -3305,7 +3536,7 @@ Cease and Desist Letters for Debt Collectors -- ceaseanddesistdebt.com
 
 ---
 
-## Serial Filer Stay Limitation - Repeat Filing Restrictions - Automatic Stay
+## Serial Filer Stay Limitation [2026]: 11 USC 362(c)(3) Documenting Good Faith in Repeat Cases
 Source: https://automaticstay.org/serial-filer-stay-limitation.html
 
 automaticstay.org
@@ -3355,17 +3586,33 @@ Rebuild Credit ·
 Buy a House After ·
 Buy a Car After
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-Free bankruptcy education. Not legal advice.
+Real information, no strings.
 
-Home ·
-How It Works ·
-Violations ·
-FAQ
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
@@ -3383,7 +3630,7 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 ---
 
-## When Creditors Violate the Automatic Stay - Your Rights Under Section 362(k)
+## Automatic Stay Violations [2026]: 11 USC 362(k) Damages, Sanctions, and Willfulness Standard
 Source: https://automaticstay.org/violations.html
 
 automaticstay.org
@@ -3403,6 +3650,8 @@ When Creditors Violate the Automatic Stay
 If a creditor continues collection activity after you file bankruptcy, they are violating a federal court order. You have the right to damages.
 
 Home / Violations
+
+A violation is 'willful' under Section 362(k) if the creditor knew about the bankruptcy filing and intentionally took the collection action. The creditor does not need to have specifically intended to violate the stay - knowledge of the filing plus a deliberate act is enough. Courts look at whether the creditor was aware of the filing, not whether they intended to break the law.
 
 The stay is not a suggestion - it is a court order
 
@@ -3512,15 +3761,9 @@ No spam. No marketing. Just data.
 
 Subscribe
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631), funding PACER access fees and bankruptcy court transparency research.
 
-♥ Sponsor
-
-PACER cases made free through RECAP: 0 of 37.9 million
-
-Every document we access becomes permanently free for the next researcher, attorney, or debtor.
-
-♥ Sponsor
+♥ Donate
 
 Further Reading & Resources
 
@@ -3573,23 +3816,41 @@ Free bankruptcy information guide
 
 cosignerrights.org →
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Foundational Caselaw
 
-Home
-What It Covers
-Violations
-Exceptions
-Repeat Filers
-Relief from Stay
-Duration
-30-Day Limit
+The cases below define the doctrine on this site:
 
-This site provides general information only and does not constitute legal advice.
-No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
+Citizens Bank of Maryland v. Strumpf, 516 U.S. 16 (1995) - administrative freeze of a debtor's bank account does not violate Section 362(a)(3) so long as the bank does not unilaterally deduct funds; defines what does NOT constitute "exercise control over property of the estate."
 
-Last updated: March 2026
+Mwangi v. Wells Fargo Bank, N.A. (In re Mwangi), 432 B.R. 812 (9th Cir. BAP 2010) - bank that froze debtor's account without releasing exempt funds promptly violated the automatic stay; defines what DOES constitute a stay violation.
 
-Privacy | Terms | Open Bankruptcy Project
+Taggart v. Lorenzen, 587 U.S. 554 (2019) - civil-contempt standard for discharge-injunction and stay violations: contempt is appropriate only when there is no fair ground of doubt as to whether the order barred the creditor's conduct.
+
+Part of the Bankruptcy Transparency Network
+
+Real information, no strings.
+
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
@@ -3615,7 +3876,7 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 ---
 
-## What the Automatic Stay Covers - Lawsuits, Garnishments, Foreclosures, Repossessions
+## What the Automatic Stay Covers [2026]: 11 USC 362(a) Lawsuits, Garnishments, Foreclosures, Repossessions
 Source: https://automaticstay.org/what-it-covers.html
 
 automaticstay.org
@@ -3635,6 +3896,8 @@ What the Automatic Stay Covers
 The moment you file, virtually all creditor collection activity must stop. Here is exactly what that means, organized by what your creditors are doing to you.
 
 Home / What It Covers
+
+Yes. The automatic stay under Section 362(a)(2) stops wage garnishment immediately. Your employer must stop withholding garnished wages once they receive notice of the bankruptcy filing. However, garnishments for domestic support obligations (child support, alimony) are exempt from the stay under Section 362(b)(2).
 
 Mortgage lenders and foreclosure
 
@@ -3792,15 +4055,9 @@ No spam. No marketing. Just data.
 
 Subscribe
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631), funding PACER access fees and bankruptcy court transparency research.
 
-♥ Sponsor
-
-PACER cases made free through RECAP: 0 of 37.9 million
-
-Every document we access becomes permanently free for the next researcher, attorney, or debtor.
-
-♥ Sponsor
+♥ Donate
 
 Further Reading & Resources
 
@@ -3853,23 +4110,41 @@ Free bankruptcy information guide
 
 cosignerrights.org →
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Foundational Caselaw
 
-Home
-What It Covers
-Violations
-Exceptions
-Repeat Filers
-Relief from Stay
-Duration
-30-Day Limit
+The cases below define the doctrine on this site:
 
-This site provides general information only and does not constitute legal advice.
-No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
+Citizens Bank of Maryland v. Strumpf, 516 U.S. 16 (1995) - administrative freeze of a debtor's bank account does not violate Section 362(a)(3) so long as the bank does not unilaterally deduct funds; defines what does NOT constitute "exercise control over property of the estate."
 
-Last updated: March 2026
+Mwangi v. Wells Fargo Bank, N.A. (In re Mwangi), 432 B.R. 812 (9th Cir. BAP 2010) - bank that froze debtor's account without releasing exempt funds promptly violated the automatic stay; defines what DOES constitute a stay violation.
 
-Privacy | Terms | Open Bankruptcy Project
+Taggart v. Lorenzen, 587 U.S. 554 (2019) - civil-contempt standard for discharge-injunction and stay violations: contempt is appropriate only when there is no fair ground of doubt as to whether the order barred the creditor's conduct.
+
+Part of the Bankruptcy Transparency Network
+
+Real information, no strings.
+
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
@@ -3951,7 +4226,7 @@ You may request deletion of any personal data we hold by contacting info@openban
 
 Network Policy
 
-This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit. The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+This site is part of the Open Bankruptcy Project operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
 
 Changes
 
@@ -3961,6 +4236,61 @@ Effective: March 30, 2026  |  Updated: April 11, 2026
 
 Home  ·  Privacy  ·  Open Bankruptcy Project
 
-Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+---
+
+## About automaticstay.org
+Source: https://automaticstay.org/about.html
+
+automaticstay.org
+
+Home
+About
+Privacy
+
+About automaticstay.org
+
+Part of the Open Bankruptcy Project operated by the Open Bankruptcy Project.
+
+What This Site Is
+
+automaticstay.org is an educational resource operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). It's part of the Open Bankruptcy Project - a collection of free, public-interest sites that translate federal bankruptcy court data, statutes, and procedures into language ordinary people can use.
+
+The Open Bankruptcy Project
+
+The Open Bankruptcy Project builds free, open-source tools that make public bankruptcy court data accessible to the people it affects most - debtors, advocates, researchers, journalists, and policymakers. Every screening tool, analysis script, and dataset is published on GitHub. Anyone can audit, reproduce, or build upon the work without permission or payment.
+
+Our research is derived primarily from the Federal Judicial Center's Integrated Database covering all federal bankruptcy filings 2008 through 2024, cross-referenced with PACER docket data via the Free Law Project's RECAP archive and independent court-scraping tooling. Methodology and source code are public.
+
+What This Site Is Not
+
+This site is not a law firm. We do not represent clients, file bankruptcy cases, or give legal advice. We do not receive referral fees, affiliate commissions, or advertising revenue. We do not sell data.
+
+If you need legal advice about your specific situation, consult a licensed bankruptcy attorney in your state.
+
+Research Contributions
+
+Our research supports two accepted suggestions to the Federal Judicial Conference Advisory Committee on Bankruptcy Rules:
+
+Suggestion 26-BK-3 - procedural screening for 11 U.S.C. § 1328(f) re-filing eligibility
+
+Suggestion 26-BK-5 - Rule 9037 / Form 121 / Form 309E1 amendments addressing systematic unredacted Social Security number exposure on federal bankruptcy dockets
+
+Contact
+
+General inquiries, data requests, research collaboration, and media: info@openbankruptcyproject.org
+
+Privacy and Data Handling
+
+See our privacy policy for details. Short version: aggregate analytics only; no data sold, no advertising, no attorney referrals, no financial information collected.
+
+Home  ·  About  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
 
 No ads. No affiliate links. No data sold. Supported by donations.

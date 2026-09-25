@@ -1,29 +1,30 @@
 # 11 USC 362 Automatic Stay - Bankruptcy Protection Guide [2026]
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
-> 11 USC 362 automatic stay stops all creditor actions the moment you file bankruptcy. Learn what it covers, exceptions, violations, and re...
+> 11 USC 362 automatic stay stops all creditor actions the moment you file bankruptcy.
 
 ## About
 automaticstay.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Automatic Stay Limited to 30 Days for Repeat Filers - Section 362(c)(2) and (c)(3): https://automaticstay.org/362c-repeat-filer.html
-- Bankruptcy Protection - How Bankruptcy Protects You [2026] - Automatic Stay: https://automaticstay.org/bankruptcy-protection.html
-- My Car Was Repossessed After I Filed Bankruptcy - What Do I Do? - Automatic Stay: https://automaticstay.org/car-repossessed.html
-- Motion to Extend the Automatic Stay (Comfort Order): https://automaticstay.org/comfort-order.html
-- Creditor Still Calling After I Filed Bankruptcy - What Do I Do? - Automatic Stay: https://automaticstay.org/creditor-still-calling.html
+- Section 362(c)(3) Repeat Filer [2026]: 30-Day Automatic Stay Limit and Motion to Extend: https://automaticstay.org/362c-repeat-filer.html
+- Bankruptcy Automatic Stay Protection [2026]: What 11 USC 362(a) Stops the Moment You File: https://automaticstay.org/bankruptcy-protection.html
+- Car Repossessed After Bankruptcy Filing [2026]: 11 USC 542 Turnover and Automatic Stay Recovery: https://automaticstay.org/car-repossessed.html
+- Motion to Extend the Automatic Stay [2026]: 11 USC 362(c)(3)(B) Comfort Order Procedure: https://automaticstay.org/comfort-order.html
+- Creditor Calling After Bankruptcy Filing [2026]: 11 USC 362(k) Damages for Stay Violations: https://automaticstay.org/creditor-still-calling.html
 - Emergency Bankruptcy Protection - What the Automatic Stay Stops Immediately: https://automaticstay.org/emergency-protection.html
-- Exceptions to the Automatic Stay - What Bankruptcy Does NOT Stop: https://automaticstay.org/exceptions.html
+- Exceptions to the Automatic Stay [2026]: 11 USC 362(b) Criminal Cases, Domestic Support, Tax Audits: https://automaticstay.org/exceptions.html
 - Automatic Stay FAQ - Bankruptcy Protection Questions Answered: https://automaticstay.org/frequently-asked-questions.html
-- How Long Does the Automatic Stay Last? - Chapter 7 vs. Chapter 13: https://automaticstay.org/how-long-does-it-last.html
+- How Long Does the Automatic Stay Last [2026]: Chapter 7 vs Chapter 13 Duration Under 11 USC 362(c): https://automaticstay.org/how-long-does-it-last.html
 - 11 USC 362 Automatic Stay - Bankruptcy Protection Guide: https://automaticstay.org/
-- Motion for Relief from Stay - When Creditors Ask the Court to Lift the Stay - Automatic Stay: https://automaticstay.org/motion-for-relief.html
-- Your Car Was Repossessed During Bankruptcy: What to Do Now [2026 Guide] - Automatic Stay: https://automaticstay.org/repossession.html
-- Automatic Stay Limits for Repeat Filers - 362(c)(3) and 362(c)(4): https://automaticstay.org/serial-filer-limits.html
-- Serial Filer Stay Limitation - Repeat Filing Restrictions - Automatic Stay: https://automaticstay.org/serial-filer-stay-limitation.html
-- When Creditors Violate the Automatic Stay - Your Rights Under Section 362(k): https://automaticstay.org/violations.html
-- What the Automatic Stay Covers - Lawsuits, Garnishments, Foreclosures, Repossessions: https://automaticstay.org/what-it-covers.html
+- Motion for Relief from Stay [2026]: 11 USC 362(d)(1) and (d)(2) Creditor Procedure: https://automaticstay.org/motion-for-relief.html
+- Vehicle Repossessed During Bankruptcy [2026]: 11 USC 542 Turnover and Insurance Documentation: https://automaticstay.org/repossession.html
+- Serial Filer Automatic Stay Limits [2026]: 11 USC 362(c)(3) 30-Day Cap and 362(c)(4) No-Stay Rule: https://automaticstay.org/serial-filer-limits.html
+- Serial Filer Stay Limitation [2026]: 11 USC 362(c)(3) Documenting Good Faith in Repeat Cases: https://automaticstay.org/serial-filer-stay-limitation.html
+- Automatic Stay Violations [2026]: 11 USC 362(k) Damages, Sanctions, and Willfulness Standard: https://automaticstay.org/violations.html
+- What the Automatic Stay Covers [2026]: 11 USC 362(a) Lawsuits, Garnishments, Foreclosures, Repossessions: https://automaticstay.org/what-it-covers.html
 - Privacy Policy: https://automaticstay.org/privacy.html
+- About automaticstay.org: https://automaticstay.org/about.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
